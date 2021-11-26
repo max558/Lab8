@@ -1,0 +1,3 @@
+﻿Alternatively, depending on the situation, you may find it clearer to just create a new array instead. 
+In particular, you then don't need to worry about whether some other code still has a reference to the 
+array and expects the old values to be there.

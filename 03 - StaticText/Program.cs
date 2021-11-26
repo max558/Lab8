@@ -15,7 +15,7 @@ namespace _03___StaticText
     {
         static void Main(string[] args)
         {
-            string path = @"Test\TestText.txt"; //Путь к файлу
+            string path = @"..\..\TestText.txt"; //Путь к файлу
             string dataTex = "";
             ReadTxtFiles(path, ref dataTex);
 
